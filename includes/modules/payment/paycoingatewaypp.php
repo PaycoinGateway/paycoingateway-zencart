@@ -193,7 +193,7 @@ function paycoingatewaypp_oauth_set($value, $key) {
     return "No merchant account is connected.<br><br>
     To connect an account and start accepting bitcoin:<br>
     1. If you don't have a Coinbase account, sign up for one at <a href='https://www.paycoingateway.com'>https://www.paycoingateway.com</a>.<br><br>
-    2. <a href='https://www.paycoingateway.com/pro/index.php#/profile/oauth'>Click here to add a new OAuth2 application</a> and enter the following information:<br>
+    2. <a href='https://www.paycoingateway.com/pro/index.php#/profile/api'>Click here to add a new OAuth2 application</a> and enter the following information:<br>
     <b>Name:</b> a name for this Zencart installation.<br>
     <b>Redirect URL:</b> <input type='text' value='$redirectUrlNoParams' readonly><br><br>
     3. Click 'Submit', and copy and paste the generated Client ID and Client Secret below. Keep these values secret. After saving these settings, return to this page to finish setting up the plugin.";
