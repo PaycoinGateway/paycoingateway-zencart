@@ -1,4 +1,4 @@
-paycoingateway-zencart
+paycoingateway-zencart Version 2.6.5
 ================
 
 Accept Paycoin on your ZenCart-powered website with PaycoinGateway. 
